@@ -1,0 +1,82 @@
+# Miscellaneous #
+#################
+reinstall_murraylab_tools.sh
+just_reinstall_murraylab_tools.sh
+push_murraylab_tools.sh
+local_reinstall_murraylab_tools.sh
+
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+build/*
+dist/*
+
+# Pip installation junk #
+#########################
+*.egg-info/
+.installed.cfg
+.eggs
+.cache
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+.coverage
+.coverage*
+coverage.xml
+.vscode/
+.vscode
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+~$*
+
+# VIM backups #
+######################
+.swp
+
+# DO include Travis files
+!.travis.yml
+
+#data directories
+examples/*.png
+examples/*.csv
+examples/*.txt
+
+# pyenv
+#######
+
+.python-version

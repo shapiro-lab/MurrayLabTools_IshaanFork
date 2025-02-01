@@ -1,0 +1,930 @@
+Source Plate,Source Plate Type,Source Well,Sample ID,Destination Plate Name,Destination Well,Transfer Volume,Sample Comment
+384_source_c1,384PP_AQ_BP,A1,m162,96,H1,500,Actual concentration: 4.87
+384_source_c1,384PP_AQ_BP,A1,m162,96,G1,650,Actual concentration: 6.33
+384_source_c1,384PP_AQ_BP,A1,m162,96,F1,825,Actual concentration: 8.03
+384_source_c1,384PP_AQ_BP,A1,m162,96,E1,975,Actual concentration: 9.49
+384_source_c1,384PP_AQ_BP,A1,m162,96,D1,1150,Actual concentration: 11.19
+384_source_c1,384PP_AQ_BP,A1,m162,96,C1,1300,Actual concentration: 12.65
+384_source_c1,384PP_AQ_BP,A1,m162,96,B1,1625,Actual concentration: 15.82
+384_source_c1,384PP_AQ_BP,A1,m162,96,H2,500,Actual concentration: 4.87
+384_source_c1,384PP_AQ_BP,A1,m162,96,G2,650,Actual concentration: 6.33
+384_source_c1,384PP_AQ_BP,A1,m162,96,F2,825,Actual concentration: 8.03
+384_source_c1,384PP_AQ_BP,A1,m162,96,E2,975,Actual concentration: 9.49
+384_source_c1,384PP_AQ_BP,A1,m162,96,D2,1150,Actual concentration: 11.19
+384_source_c1,384PP_AQ_BP,A1,m162,96,C2,1300,Actual concentration: 12.65
+384_source_c1,384PP_AQ_BP,A1,m162,96,B2,1625,Actual concentration: 15.82
+384_source_c1,384PP_AQ_BP,A1,m162,96,A2,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,H3,500,Actual concentration: 4.87
+384_source_c1,384PP_AQ_BP,A1,m162,96,G3,650,Actual concentration: 6.33
+384_source_c1,384PP_AQ_BP,A1,m162,96,F3,825,Actual concentration: 8.03
+384_source_c1,384PP_AQ_BP,A1,m162,96,E3,975,Actual concentration: 9.49
+384_source_c1,384PP_AQ_BP,A1,m162,96,D3,1150,Actual concentration: 11.19
+384_source_c1,384PP_AQ_BP,A1,m162,96,C3,1300,Actual concentration: 12.65
+384_source_c1,384PP_AQ_BP,A1,m162,96,B3,1625,Actual concentration: 15.82
+384_source_c1,384PP_AQ_BP,A1,m162,96,H4,500,Actual concentration: 4.87
+384_source_c1,384PP_AQ_BP,A1,m162,96,G4,650,Actual concentration: 6.33
+384_source_c1,384PP_AQ_BP,A1,m162,96,F4,825,Actual concentration: 8.03
+384_source_c1,384PP_AQ_BP,A1,m162,96,E4,975,Actual concentration: 9.49
+384_source_c1,384PP_AQ_BP,A1,m162,96,D4,1150,Actual concentration: 11.19
+384_source_c1,384PP_AQ_BP,A1,m162,96,C4,1300,Actual concentration: 12.65
+384_source_c1,384PP_AQ_BP,A1,m162,96,B4,1625,Actual concentration: 15.82
+384_source_c1,384PP_AQ_BP,A1,m162,96,A4,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,H5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,G5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,F5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,E5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,D5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,C5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,B5,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,H6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,G6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,F6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A1,m162,96,E6,1200,Actual concentration: 11.68
+384_source_c1,384PP_AQ_BP,A3,m162,96,E6,25,Actual concentration: 0.24
+384_source_c1,384PP_AQ_BP,A3,m162,96,D6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,C6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,B6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,A6,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,H7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,G7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,F7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,E7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,D7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,C7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,B7,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,H8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,G8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,F8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,E8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,D8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,C8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,B8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,A8,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,H9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,G9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,F9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,E9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,D9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,C9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,B9,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,H10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,G10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,F10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,E10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,D10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,C10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,B10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,A10,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,H11,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A3,m162,96,G11,1100,Actual concentration: 10.71
+384_source_c1,384PP_AQ_BP,A5,m162,96,G11,125,Actual concentration: 1.22
+384_source_c1,384PP_AQ_BP,A5,m162,96,F11,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A5,m162,96,E11,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A5,m162,96,D11,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A5,m162,96,C11,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A5,m162,96,B11,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,A5,m162,96,H12,500,Actual concentration: 4.87
+384_source_c1,384PP_AQ_BP,A5,m162,96,G12,650,Actual concentration: 6.33
+384_source_c1,384PP_AQ_BP,A5,m162,96,F12,825,Actual concentration: 8.03
+384_source_c1,384PP_AQ_BP,A5,m162,96,E12,975,Actual concentration: 9.49
+384_source_c1,384PP_AQ_BP,A5,m162,96,D12,1150,Actual concentration: 11.19
+384_source_c1,384PP_AQ_BP,A5,m162,96,C12,1300,Actual concentration: 12.65
+384_source_c1,384PP_AQ_BP,A5,m162,96,B12,1625,Actual concentration: 15.82
+384_source_c1,384PP_AQ_BP,A5,m162,96,A12,1225,Actual concentration: 11.92
+384_source_c1,384PP_AQ_BP,C1,m163,96,H1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,G1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,F1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,E1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,D1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,C1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,B1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,C1,m163,96,H2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,G2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,F2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,E2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,D2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,C2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,B2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,A2,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,H3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,G3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,F3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,E3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,D3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,C3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,B3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,C1,m163,96,H4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,G4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,F4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,E4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,D4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,C4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,B4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,A4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,H5,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,G5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,F5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,E5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,D5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,C5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,B5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,H6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,G6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,F6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,E6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,D6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,C6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,B6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,A6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,H7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,G7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,F7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,E7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,D7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,C7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,B7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,H8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,G8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,F8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,E8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,D8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,C8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,B8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,A8,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,H9,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,G9,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,F9,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,E9,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,D9,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,C9,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,B9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,H10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,G10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,F10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,E10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,D10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,C10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,B10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,A10,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,C1,m163,96,H11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,G11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,F11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,E11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,D11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,C11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,B11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,C1,m163,96,H12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,G12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,F12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,E12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,D12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,C12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,B12,1150,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,C1,m163,96,A12,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,E1,m164,96,H1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,G1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,F1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,E1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,D1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,C1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,B1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,E1,m164,96,H2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,G2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,F2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,E2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,D2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B2,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,A2,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,H3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,G3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,F3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,E3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,D3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,C3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,B3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,E1,m164,96,H4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,G4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,F4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,E4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,D4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,C4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,B4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,A4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,H5,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,G5,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,F5,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,E5,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,D5,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C5,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B5,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,H6,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,G6,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,F6,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,E6,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,D6,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C6,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B6,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,A6,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,H7,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,G7,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,F7,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,E7,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,D7,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C7,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B7,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,H8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,G8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,F8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,E8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,D8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B8,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,A8,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,H9,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,G9,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,F9,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,E9,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,D9,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C9,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B9,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,H10,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,G10,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,F10,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,E10,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,D10,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C10,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B10,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,A10,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,E1,m164,96,H11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,G11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,F11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,E11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,D11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,C11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,B11,125,Actual concentration: 0.18
+384_source_c1,384PP_AQ_BP,E1,m164,96,H12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,G12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,F12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,E12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,D12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,C12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,B12,1075,Actual concentration: 1.58
+384_source_c1,384PP_AQ_BP,E1,m164,96,A12,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,G1,m165,96,H1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,G1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,F1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,E1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,D1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,C1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,B1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,G1,m165,96,H2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,G2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,F2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,C2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,B2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,A2,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,H3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,G3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,F3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,E3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,D3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,C3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,B3,300,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,G1,m165,96,H4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,G4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,F4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,E4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,D4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,C4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,B4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,A4,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,H5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,G5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,F5,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,E5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,C5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,B5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,H6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,G6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,F6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,C6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,B6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,A6,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,H7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,G7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,F7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D7,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,C7,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,B7,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,H8,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,G8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,F8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,C8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,B8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,A8,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,H9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,G9,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,F9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,C9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,B9,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,H10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,G10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,F10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D10,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,C10,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,B10,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,A10,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,G1,m165,96,H11,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,G11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,F11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,E11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,D11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,C11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,B11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,G1,m165,96,H12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,G12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,F12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,E12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,D12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,C12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,B12,1175,Actual concentration: 1.61
+384_source_c1,384PP_AQ_BP,G1,m165,96,A12,575,Actual concentration: 0.79
+384_source_c1,384PP_AQ_BP,I1,m166,96,H1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,G1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,F1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,E1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,D1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,C1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,B1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,I1,m166,96,H2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,G2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,F2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,E2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,D2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,C2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B2,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,A2,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,H3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,G3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,F3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,E3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,D3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,C3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,B3,275,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,I1,m166,96,H4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,G4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,F4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,E4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,D4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,C4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,B4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,A4,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,H5,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,G5,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,F5,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,E5,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,D5,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,C5,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B5,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,H6,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,G6,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,F6,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,E6,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,D6,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,C6,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B6,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,A6,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,H7,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,G7,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,F7,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,E7,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,D7,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,C7,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B7,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,H8,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,G8,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,F8,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,E8,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,D8,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,C8,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B8,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,A8,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,H9,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,G9,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,F9,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,E9,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,D9,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,C9,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B9,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,H10,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,G10,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,F10,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,E10,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,D10,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,C10,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B10,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,A10,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,I1,m166,96,H11,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,G11,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,F11,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,E11,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,D11,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,C11,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,B11,150,Actual concentration: 0.22
+384_source_c1,384PP_AQ_BP,I1,m166,96,H12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,G12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,F12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,E12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,D12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,C12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,B12,1100,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,I1,m166,96,A12,550,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,H1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,G1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,F1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,E1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,D1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,C1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,B1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,K1,m167,96,H2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,F2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,D2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,C2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,B2,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,A2,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,H3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,G3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,F3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,E3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,D3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,C3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,B3,300,Actual concentration: 0.40
+384_source_c1,384PP_AQ_BP,K1,m167,96,H4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,G4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,F4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,E4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,D4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,C4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,B4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,A4,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,H5,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G5,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,F5,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E5,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,D5,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,C5,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,B5,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,H6,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G6,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,F6,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E6,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,D6,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,C6,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,B6,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,A6,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,H7,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G7,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,F7,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E7,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,D7,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,C7,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,B7,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,H8,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G8,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,F8,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E8,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,D8,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,C8,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,B8,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,A8,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,H9,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G9,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,F9,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E9,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,D9,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,C9,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,B9,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,H10,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G10,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,F10,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E10,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,D10,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,C10,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,B10,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,A10,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,K1,m167,96,H11,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,G11,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,F11,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,E11,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,D11,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,C11,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,B11,150,Actual concentration: 0.20
+384_source_c1,384PP_AQ_BP,K1,m167,96,H12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,G12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,F12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,E12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,D12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,C12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,B12,1175,Actual concentration: 1.57
+384_source_c1,384PP_AQ_BP,K1,m167,96,A12,600,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,M1,m168,96,H1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,G1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,F1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,E1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,D1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,C1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,B1,75,Actual concentration: 0.11
+384_source_c1,384PP_AQ_BP,M1,m168,96,H2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,E2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,C2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B2,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,A2,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,H3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,G3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,F3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,E3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,D3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,C3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,B3,275,Actual concentration: 0.41
+384_source_c1,384PP_AQ_BP,M1,m168,96,H4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,G4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,F4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,E4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,D4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,C4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,B4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,A4,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,H5,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G5,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F5,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,E5,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D5,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,C5,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,B5,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,H6,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G6,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F6,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,E6,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D6,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,C6,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B6,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,A6,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,H7,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G7,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F7,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,E7,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D7,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,C7,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B7,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,H8,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G8,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F8,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,E8,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D8,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,C8,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B8,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,A8,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,H9,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G9,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F9,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,E9,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D9,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,C9,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B9,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,H10,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G10,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F10,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,E10,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D10,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,C10,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B10,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,A10,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,M1,m168,96,H11,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,G11,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,F11,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,E11,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,D11,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,C11,125,Actual concentration: 0.19
+384_source_c1,384PP_AQ_BP,M1,m168,96,B11,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,H12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,G12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,F12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,E12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,D12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,C12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,B12,1075,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,M1,m168,96,A12,550,Actual concentration: 0.81
+384_source_c1,384PP_AQ_BP,O1,m169,96,H1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,G1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,F1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,E1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,D1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,C1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,B1,75,Actual concentration: 0.10
+384_source_c1,384PP_AQ_BP,O1,m169,96,H2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,G2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,D2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,B2,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,A2,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,H3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,G3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,F3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,E3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,D3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,C3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,B3,300,Actual concentration: 0.42
+384_source_c1,384PP_AQ_BP,O1,m169,96,H4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,G4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,F4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,E4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,D4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,C4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,B4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,A4,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,H5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,G5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,D5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C5,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,B5,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,H6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,G6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,D6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C6,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,B6,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,A6,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,H7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,G7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E7,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,D7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,B7,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,H8,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,G8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E8,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,D8,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C8,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,B8,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,A8,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,H9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,G9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,D9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C9,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,B9,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,H10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,G10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E10,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,D10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,B10,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,A10,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,O1,m169,96,H11,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,G11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,F11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,E11,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,D11,150,Actual concentration: 0.21
+384_source_c1,384PP_AQ_BP,O1,m169,96,C11,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,B11,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,H12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,G12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,F12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,E12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,D12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,C12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,B12,1150,Actual concentration: 1.59
+384_source_c1,384PP_AQ_BP,O1,m169,96,A12,575,Actual concentration: 0.80
+384_source_c1,384PP_AQ_BP,B2,puc19,96,H1,4125,Actual concentration: 43.58
+384_source_c1,384PP_AQ_BP,B2,puc19,96,G1,3800,Actual concentration: 40.15
+384_source_c1,384PP_AQ_BP,B2,puc19,96,F1,3500,Actual concentration: 36.98
+384_source_c1,384PP_AQ_BP,B2,puc19,96,E1,3175,Actual concentration: 33.55
+384_source_c1,384PP_AQ_BP,B2,puc19,96,D1,2875,Actual concentration: 30.38
+384_source_c1,384PP_AQ_BP,B2,puc19,96,C1,2550,Actual concentration: 26.94
+384_source_c1,384PP_AQ_BP,B2,puc19,96,B1,1925,Actual concentration: 20.34
+384_source_c1,384PP_AQ_BP,B2,puc19,96,A1,5175,Actual concentration: 54.68
+384_source_c1,384PP_AQ_BP,B2,puc19,96,H2,4000,Actual concentration: 42.26
+384_source_c1,384PP_AQ_BP,B2,puc19,96,G2,3675,Actual concentration: 38.83
+384_source_c1,384PP_AQ_BP,B2,puc19,96,F2,3375,Actual concentration: 35.66
+384_source_c1,384PP_AQ_BP,B2,puc19,96,E2,3050,Actual concentration: 32.22
+384_source_c1,384PP_AQ_BP,B2,puc19,96,D2,2750,Actual concentration: 29.05
+384_source_c1,384PP_AQ_BP,B2,puc19,96,C2,25,Actual concentration: 0.26
+384_source_c1,384PP_AQ_BP,B4,puc19,96,C2,2400,Actual concentration: 25.36
+384_source_c1,384PP_AQ_BP,B4,puc19,96,B2,1825,Actual concentration: 19.28
+384_source_c1,384PP_AQ_BP,B4,puc19,96,A2,1850,Actual concentration: 19.55
+384_source_c1,384PP_AQ_BP,B4,puc19,96,H3,3750,Actual concentration: 39.62
+384_source_c1,384PP_AQ_BP,B4,puc19,96,G3,3450,Actual concentration: 36.45
+384_source_c1,384PP_AQ_BP,B4,puc19,96,F3,3125,Actual concentration: 33.02
+384_source_c1,384PP_AQ_BP,B4,puc19,96,E3,2825,Actual concentration: 29.85
+384_source_c1,384PP_AQ_BP,B4,puc19,96,D3,2500,Actual concentration: 26.41
+384_source_c1,384PP_AQ_BP,B4,puc19,96,C3,2200,Actual concentration: 23.24
+384_source_c1,384PP_AQ_BP,B4,puc19,96,B3,1575,Actual concentration: 16.64
+384_source_c1,384PP_AQ_BP,B4,puc19,96,A3,5175,Actual concentration: 54.68
+384_source_c1,384PP_AQ_BP,B4,puc19,96,H4,3275,Actual concentration: 34.60
+384_source_c1,384PP_AQ_BP,B4,puc19,96,G4,2950,Actual concentration: 31.17
+384_source_c1,384PP_AQ_BP,B4,puc19,96,F4,2650,Actual concentration: 28.00
+384_source_c1,384PP_AQ_BP,B4,puc19,96,E4,2325,Actual concentration: 24.56
+384_source_c1,384PP_AQ_BP,B4,puc19,96,D4,2025,Actual concentration: 21.40
+384_source_c1,384PP_AQ_BP,B4,puc19,96,C4,100,Actual concentration: 1.06
+384_source_c1,384PP_AQ_BP,D2,puc19,96,C4,1600,Actual concentration: 16.90
+384_source_c1,384PP_AQ_BP,D2,puc19,96,B4,1075,Actual concentration: 11.36
+384_source_c1,384PP_AQ_BP,D2,puc19,96,A4,1850,Actual concentration: 19.55
+384_source_c1,384PP_AQ_BP,D2,puc19,96,H5,2475,Actual concentration: 26.15
+384_source_c1,384PP_AQ_BP,D2,puc19,96,G5,2500,Actual concentration: 26.41
+384_source_c1,384PP_AQ_BP,D2,puc19,96,F5,2475,Actual concentration: 26.15
+384_source_c1,384PP_AQ_BP,D2,puc19,96,E5,2500,Actual concentration: 26.41
+384_source_c1,384PP_AQ_BP,D2,puc19,96,D5,2475,Actual concentration: 26.15
+384_source_c1,384PP_AQ_BP,D2,puc19,96,C5,2500,Actual concentration: 26.41
+384_source_c1,384PP_AQ_BP,D2,puc19,96,B5,2475,Actual concentration: 26.15
+384_source_c1,384PP_AQ_BP,D2,puc19,96,A5,5175,Actual concentration: 54.68
+384_source_c1,384PP_AQ_BP,D2,puc19,96,H6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,G6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,F6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,E6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,D6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,C6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,B6,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D2,puc19,96,A6,275,Actual concentration: 2.91
+384_source_c1,384PP_AQ_BP,D4,puc19,96,A6,1575,Actual concentration: 16.64
+384_source_c1,384PP_AQ_BP,D4,puc19,96,H7,2400,Actual concentration: 25.36
+384_source_c1,384PP_AQ_BP,D4,puc19,96,G7,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,F7,2400,Actual concentration: 25.36
+384_source_c1,384PP_AQ_BP,D4,puc19,96,E7,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,D7,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,C7,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,B7,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,A7,5175,Actual concentration: 54.68
+384_source_c1,384PP_AQ_BP,D4,puc19,96,H8,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,G8,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,F8,2400,Actual concentration: 25.36
+384_source_c1,384PP_AQ_BP,D4,puc19,96,E8,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,D8,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,C8,2375,Actual concentration: 25.09
+384_source_c1,384PP_AQ_BP,D4,puc19,96,B8,2400,Actual concentration: 25.36
+384_source_c1,384PP_AQ_BP,D4,puc19,96,A8,1850,Actual concentration: 19.55
+384_source_c1,384PP_AQ_BP,D4,puc19,96,H9,2050,Actual concentration: 21.66
+384_source_c1,384PP_AQ_BP,F2,puc19,96,H9,50,Actual concentration: 0.53
+384_source_c1,384PP_AQ_BP,F2,puc19,96,G9,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,F9,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,E9,2075,Actual concentration: 21.92
+384_source_c1,384PP_AQ_BP,F2,puc19,96,D9,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,C9,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,B9,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,A9,5175,Actual concentration: 54.68
+384_source_c1,384PP_AQ_BP,F2,puc19,96,H10,2125,Actual concentration: 22.45
+384_source_c1,384PP_AQ_BP,F2,puc19,96,G10,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,F10,2125,Actual concentration: 22.45
+384_source_c1,384PP_AQ_BP,F2,puc19,96,E10,2125,Actual concentration: 22.45
+384_source_c1,384PP_AQ_BP,F2,puc19,96,D10,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,C10,2075,Actual concentration: 21.92
+384_source_c1,384PP_AQ_BP,F2,puc19,96,B10,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,A10,1850,Actual concentration: 19.55
+384_source_c1,384PP_AQ_BP,F2,puc19,96,H11,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,G11,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,F11,2125,Actual concentration: 22.45
+384_source_c1,384PP_AQ_BP,F2,puc19,96,E11,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F2,puc19,96,D11,1175,Actual concentration: 12.41
+384_source_c1,384PP_AQ_BP,F4,puc19,96,D11,925,Actual concentration: 9.77
+384_source_c1,384PP_AQ_BP,F4,puc19,96,C11,2100,Actual concentration: 22.19
+384_source_c1,384PP_AQ_BP,F4,puc19,96,B11,2125,Actual concentration: 22.45
+384_source_c1,384PP_AQ_BP,F4,puc19,96,A11,5175,Actual concentration: 54.68
+384_source_c1,384PP_AQ_BP,F4,puc19,96,H12,2300,Actual concentration: 24.30
+384_source_c1,384PP_AQ_BP,F4,puc19,96,G12,1975,Actual concentration: 20.87
+384_source_c1,384PP_AQ_BP,F4,puc19,96,F12,1675,Actual concentration: 17.70
+384_source_c1,384PP_AQ_BP,F4,puc19,96,E12,1350,Actual concentration: 14.26
+384_source_c1,384PP_AQ_BP,F4,puc19,96,D12,1050,Actual concentration: 11.09
+384_source_c1,384PP_AQ_BP,F4,puc19,96,C12,725,Actual concentration: 7.66
+384_source_c1,384PP_AQ_BP,F4,puc19,96,B12,100,Actual concentration: 1.06
+384_source_c1,384PP_AQ_BP,F4,puc19,96,A12,1850,Actual concentration: 19.55
+384_source_c1,384PP_AQ_BP,B22,water,96,H1,5850,
+384_source_c1,384PP_AQ_BP,B22,water,96,G1,6025,
+384_source_c1,384PP_AQ_BP,B22,water,96,F1,6150,
+384_source_c1,384PP_AQ_BP,B22,water,96,E1,6325,
+384_source_c1,384PP_AQ_BP,B22,water,96,D1,6450,
+384_source_c1,384PP_AQ_BP,B22,water,96,C1,6625,
+384_source_c1,384PP_AQ_BP,B22,water,96,B1,6575,
+384_source_c1,384PP_AQ_BP,B24,water,96,B1,350,
+384_source_c1,384PP_AQ_BP,B24,water,96,A1,5825,
+384_source_c1,384PP_AQ_BP,B24,water,96,H2,5500,
+384_source_c1,384PP_AQ_BP,B24,water,96,G2,5675,
+384_source_c1,384PP_AQ_BP,B24,water,96,F2,5800,
+384_source_c1,384PP_AQ_BP,B24,water,96,E2,5975,
+384_source_c1,384PP_AQ_BP,B24,water,96,D2,6100,
+384_source_c1,384PP_AQ_BP,B24,water,96,C2,6275,
+384_source_c1,384PP_AQ_BP,B24,water,96,B2,2500,
+384_source_c1,384PP_AQ_BP,D22,water,96,B2,4050,
+384_source_c1,384PP_AQ_BP,D22,water,96,A2,3950,
+384_source_c1,384PP_AQ_BP,D22,water,96,H3,4725,
+384_source_c1,384PP_AQ_BP,D22,water,96,G3,4875,
+384_source_c1,384PP_AQ_BP,D22,water,96,F3,5025,
+384_source_c1,384PP_AQ_BP,D22,water,96,E3,5175,
+384_source_c1,384PP_AQ_BP,D22,water,96,D3,5325,
+384_source_c1,384PP_AQ_BP,D22,water,96,C3,5475,
+384_source_c1,384PP_AQ_BP,D22,water,96,B3,5400,
+384_source_c1,384PP_AQ_BP,D24,water,96,B3,375,
+384_source_c1,384PP_AQ_BP,D24,water,96,A3,5825,
+384_source_c1,384PP_AQ_BP,D24,water,96,H4,3250,
+384_source_c1,384PP_AQ_BP,D24,water,96,G4,3425,
+384_source_c1,384PP_AQ_BP,D24,water,96,F4,3550,
+384_source_c1,384PP_AQ_BP,D24,water,96,E4,3725,
+384_source_c1,384PP_AQ_BP,D24,water,96,D4,3850,
+384_source_c1,384PP_AQ_BP,D24,water,96,C4,4025,
+384_source_c1,384PP_AQ_BP,D24,water,96,B4,4325,
+384_source_c1,384PP_AQ_BP,D24,water,96,A4,3950,
+384_source_c1,384PP_AQ_BP,D24,water,96,H5,5875,
+384_source_c1,384PP_AQ_BP,D24,water,96,G5,1825,
+384_source_c1,384PP_AQ_BP,F22,water,96,G5,4025,
+384_source_c1,384PP_AQ_BP,F22,water,96,F5,5875,
+384_source_c1,384PP_AQ_BP,F22,water,96,E5,5875,
+384_source_c1,384PP_AQ_BP,F22,water,96,D5,5850,
+384_source_c1,384PP_AQ_BP,F22,water,96,C5,5850,
+384_source_c1,384PP_AQ_BP,F22,water,96,B5,5875,
+384_source_c1,384PP_AQ_BP,F22,water,96,A5,5825,
+384_source_c1,384PP_AQ_BP,F22,water,96,H6,4825,
+384_source_c1,384PP_AQ_BP,F24,water,96,H6,725,
+384_source_c1,384PP_AQ_BP,F24,water,96,G6,5550,
+384_source_c1,384PP_AQ_BP,F24,water,96,F6,5575,
+384_source_c1,384PP_AQ_BP,F24,water,96,E6,5525,
+384_source_c1,384PP_AQ_BP,F24,water,96,D6,5550,
+384_source_c1,384PP_AQ_BP,F24,water,96,C6,5550,
+384_source_c1,384PP_AQ_BP,F24,water,96,B6,5550,
+384_source_c1,384PP_AQ_BP,F24,water,96,A6,3950,
+384_source_c1,384PP_AQ_BP,F24,water,96,H7,5550,
+384_source_c1,384PP_AQ_BP,F24,water,96,G7,475,
+384_source_c1,384PP_AQ_BP,H22,water,96,G7,5050,
+384_source_c1,384PP_AQ_BP,H22,water,96,F7,5525,
+384_source_c1,384PP_AQ_BP,H22,water,96,E7,5550,
+384_source_c1,384PP_AQ_BP,H22,water,96,D7,5575,
+384_source_c1,384PP_AQ_BP,H22,water,96,C7,5525,
+384_source_c1,384PP_AQ_BP,H22,water,96,B7,5550,
+384_source_c1,384PP_AQ_BP,H22,water,96,A7,5825,
+384_source_c1,384PP_AQ_BP,H22,water,96,H8,5400,
+384_source_c1,384PP_AQ_BP,H24,water,96,H8,150,
+384_source_c1,384PP_AQ_BP,H24,water,96,G8,5550,
+384_source_c1,384PP_AQ_BP,H24,water,96,F8,5550,
+384_source_c1,384PP_AQ_BP,H24,water,96,E8,5575,
+384_source_c1,384PP_AQ_BP,H24,water,96,D8,5525,
+384_source_c1,384PP_AQ_BP,H24,water,96,C8,5525,
+384_source_c1,384PP_AQ_BP,H24,water,96,B8,5525,
+384_source_c1,384PP_AQ_BP,H24,water,96,A8,3950,
+384_source_c1,384PP_AQ_BP,H24,water,96,H9,4725,
+384_source_c1,384PP_AQ_BP,H24,water,96,G9,1925,
+384_source_c1,384PP_AQ_BP,J22,water,96,G9,2725,
+384_source_c1,384PP_AQ_BP,J22,water,96,F9,4725,
+384_source_c1,384PP_AQ_BP,J22,water,96,E9,4675,
+384_source_c1,384PP_AQ_BP,J22,water,96,D9,4725,
+384_source_c1,384PP_AQ_BP,J22,water,96,C9,4675,
+384_source_c1,384PP_AQ_BP,J22,water,96,B9,4700,
+384_source_c1,384PP_AQ_BP,J22,water,96,A9,5825,
+384_source_c1,384PP_AQ_BP,J22,water,96,H10,4750,
+384_source_c1,384PP_AQ_BP,J22,water,96,G10,4700,
+384_source_c1,384PP_AQ_BP,J22,water,96,F10,2500,
+384_source_c1,384PP_AQ_BP,J24,water,96,F10,2250,
+384_source_c1,384PP_AQ_BP,J24,water,96,E10,4700,
+384_source_c1,384PP_AQ_BP,J24,water,96,D10,4700,
+384_source_c1,384PP_AQ_BP,J24,water,96,C10,4650,
+384_source_c1,384PP_AQ_BP,J24,water,96,B10,4700,
+384_source_c1,384PP_AQ_BP,J24,water,96,A10,3950,
+384_source_c1,384PP_AQ_BP,J24,water,96,H11,4650,
+384_source_c1,384PP_AQ_BP,J24,water,96,G11,4700,
+384_source_c1,384PP_AQ_BP,J24,water,96,F11,4750,
+384_source_c1,384PP_AQ_BP,J24,water,96,E11,4725,
+384_source_c1,384PP_AQ_BP,J24,water,96,D11,225,
+384_source_c1,384PP_AQ_BP,L22,water,96,D11,4475,
+384_source_c1,384PP_AQ_BP,L22,water,96,C11,4650,
+384_source_c1,384PP_AQ_BP,L22,water,96,B11,4700,
+384_source_c1,384PP_AQ_BP,L22,water,96,A11,5825,
+384_source_c1,384PP_AQ_BP,L22,water,96,H12,300,
+384_source_c1,384PP_AQ_BP,L22,water,96,G12,475,
+384_source_c1,384PP_AQ_BP,L22,water,96,F12,600,
+384_source_c1,384PP_AQ_BP,L22,water,96,E12,775,
+384_source_c1,384PP_AQ_BP,L22,water,96,D12,900,
+384_source_c1,384PP_AQ_BP,L22,water,96,C12,1075,
+384_source_c1,384PP_AQ_BP,L22,water,96,B12,1375,
+384_source_c1,384PP_AQ_BP,L22,water,96,A12,3950,

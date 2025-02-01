@@ -1,0 +1,21 @@
+sudo: false
+
+language: python
+python:
+- "3.8"
+
+notifications:
+  email: false
+
+install:
+  - make get_test_deps
+  - pip install -r requirements.txt
+env:
+  - TEST_SUITE=test
+script:
+  - make $TEST_SUITE
+  - make install
+
+# Push the results back to codecov
+after_success:
+  - codecov

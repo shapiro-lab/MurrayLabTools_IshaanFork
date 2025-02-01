@@ -1,0 +1,44 @@
+Materials used:
+
+m162:
+	stock concentration: 107.08 nM
+	total volume: 102.50 uL
+m163:
+	stock concentration: 15.07 nM
+	total volume: 35.52 uL
+m164:
+	stock concentration: 16.21 nM
+	total volume: 32.80 uL
+m165:
+	stock concentration: 15.04 nM
+	total volume: 35.85 uL
+m166:
+	stock concentration: 15.91 nM
+	total volume: 34.20 uL
+m167:
+	stock concentration: 14.74 nM
+	total volume: 36.35 uL
+m168:
+	stock concentration: 16.29 nM
+	total volume: 32.80 uL
+m169:
+	stock concentration: 15.24 nM
+	total volume: 35.52 uL
+puc19:
+	stock concentration: 116.22 nM
+	total volume: 241.35 uL
+water:
+	stock concentration: 1.00 x
+	total volume: 469.10 uL
+
+On the source plate:
+	Add 65.0 uL of m162 in wells: A1, A3, A5
+	Add 65.0 uL of m163 in well: C1
+	Add 65.0 uL of m164 in well: E1
+	Add 65.0 uL of m165 in well: G1
+	Add 65.0 uL of m166 in well: I1
+	Add 65.0 uL of m167 in well: K1
+	Add 65.0 uL of m168 in well: M1
+	Add 65.0 uL of m169 in well: O1
+	Add 65.0 uL of puc19 in wells: B2, B4, D2, D4, F2, F4
+	Add 65.0 uL of water in wells: B22, B24, D22, D24, F22, F24, H22, H24, J22, J24, L22

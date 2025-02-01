@@ -1,0 +1,16 @@
+Location,Name,Concentration,Length,Units
+A1,m162,104.51,0,nM
+C1,m163,15.67,0,nM
+E1,m164,14.55,0,nM
+G1,m165,14.98,0,nM
+I1,m166,14.29,0,nM
+K1,m167,15.51,0,nM
+M1,m168,14.56,0,nM
+O1,m169,15.70,0,nM
+B2,puc19,116.27,0,nM
+B24,water,1.00,0,x
+D24,water,1.00,0,x
+F24,water,1.00,0,x
+H24,water,1.00,0,x
+D2,puc19,116.27,0,nM
+F2,puc19,116.27,0,nM
