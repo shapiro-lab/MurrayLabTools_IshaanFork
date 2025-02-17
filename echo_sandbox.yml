@@ -78,4 +78,4 @@ dependencies:
       - pyparsing==3.2.1
       - pytz==2025.1
       - tzdata==2025.1
-prefix: /central/groups/shapirolab/idev/installs/miniconda3/envs/echo_sandbox
+
