@@ -386,7 +386,7 @@ class EchoRun():
 
         # Read in stock file
         stock_sheet = np.empty(shape = (12,5), dtype = object)
-        with mt_open(stock_filename, 'rU') as stock_file:
+        with mt_open(stock_filename, 'r') as stock_file:
             stock_reader = csv.reader(stock_file)
             rownum = -1
             for row in stock_reader:
@@ -397,7 +397,7 @@ class EchoRun():
 
         # Read in recipe file
         recipe_sheet = np.zeros(shape = (384+20, 16), dtype = object)
-        with mt_open(recipe_filename, 'rU') as recipe_file:
+        with mt_open(recipe_filename, 'r') as recipe_file:
             recipe_reader = csv.reader(recipe_file)
             rownum = -1
             for row in recipe_reader:
@@ -587,7 +587,7 @@ class EchoRun():
         #############
         # Read file #
         #############
-        with mt_open(input_filename, 'rU') as input_file:
+        with mt_open(input_filename, 'r') as input_file:
             reader = csv.reader(input_file)
             # Skip first row if it's a header
             if header:
@@ -643,7 +643,7 @@ class EchoRun():
                                 "set water_name to the name of water given in "
                                 "your source file.")
 
-        with mt_open(input_filename, 'rU') as input_file:
+        with mt_open(input_filename, 'r') as input_file:
             reader = csv.reader(input_file)
             # Skip the first row if it's a header
             if header:
