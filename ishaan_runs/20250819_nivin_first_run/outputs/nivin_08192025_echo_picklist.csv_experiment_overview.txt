@@ -1,0 +1,41 @@
+Materials used:
+
+NN400_GvpA:
+	stock concentration: 124.78 nM
+	total volume: 60.20 uL
+NN458_GvpF:
+	stock concentration: 15.77 nM
+	total volume: 34.67 uL
+NN410_GvpG:
+	stock concentration: 13.16 nM
+	total volume: 41.88 uL
+NN457_GvpJ:
+	stock concentration: 16.21 nM
+	total volume: 32.17 uL
+wt_GvpK:
+	stock concentration: 15.56 nM
+	total volume: 30.80 uL
+NN449_GvpN:
+	stock concentration: 11.97 nM
+	total volume: 43.65 uL
+wt_GvpW:
+	stock concentration: 16.39 nM
+	total volume: 32.35 uL
+puc19:
+	stock concentration: 163.47 nM
+	total volume: 200.22 uL
+water:
+	stock concentration: 1.00 x
+	total volume: 1006.05 uL
+
+On the source plate:
+	Add 31.0 uL of NN400_GvpA in wells: C1, E1, G1, I1, K1, M1, O1
+	Add 31.0 uL of NN458_GvpF in wells: A3, C3, E3, G3
+	Add 31.0 uL of NN410_GvpG in wells: A5, C5, E5, G5, I5
+	Add 31.0 uL of NN457_GvpJ in wells: A7, C7, E7, G7
+	Add 31.0 uL of wt_GvpK in wells: A9, C9, E9, G9
+	Add 31.0 uL of NN449_GvpN in wells: A11, C11, E11, G11, I11
+	Add 31.0 uL of wt_GvpW in wells: A13, C13, E13, G13
+	Add 31.0 uL of puc19 in wells: A15, B15, C15, D15, E15, F15, G15, H15, I15, J15, K15, L15, M15, N15, O15, P15, A17, B17, C17, D17, E17
+	Add 31.0 uL of water in wells: F06, A24, A1, A2, A4, A6, A8, A10, A12, A14, A16, A18, A19, A20, A21, A22, A23, B1, B2, B3, B4, B5, B6, B7, B8, B9, B10, B11, B12, B13, B14, B16, B18, B19, B20, B21, B22, B23, B24, C2, C4, C6, C8, C10, C12, C14, C16, C18, C19, C20, C21, C22, C23, C24, D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D16, D18, D19, D20, D21, D22, D23, D24, E2, E4, E6, E8, E10, E12, E14, E16, E18, E19, E20, E21, E22, E23, E24, F1, F2, F3, F4, F5
+	Add 25.05 uL of water in well: F07

@@ -260,7 +260,7 @@ Well Number 384,Well Address 384,Sample Name,sample_concentration,Well location 
 259,K19,0,,F10,Plate 1
 260,K20,m212,,F10,Plate 2
 261,K21,0,,F11,Plate 1
-262,K22,0,,F11,Plate 2
+262,K22,master_mix,,F11,Plate 2
 263,K23,0,,F12,Plate 1
 264,K24,water,,F12,Plate 2
 265,L1,m330,,F1,Plate 3
@@ -284,7 +284,7 @@ Well Number 384,Well Address 384,Sample Name,sample_concentration,Well location 
 283,L19,m339,,F10,Plate 3
 284,L20,0,,F10,Plate 4
 285,L21,m340,,F11,Plate 3
-286,L22,0,,F11,Plate 4
+286,L22,master_mix,,F11,Plate 4
 287,L23,m341,,F12,Plate 3
 288,L24,water,,F12,Plate 4
 289,M1,0,,G1,Plate 1
@@ -308,7 +308,7 @@ Well Number 384,Well Address 384,Sample Name,sample_concentration,Well location 
 307,M19,0,,G10,Plate 1
 308,M20,m212,,G10,Plate 2
 309,M21,0,,G11,Plate 1
-310,M22,0,,G11,Plate 2
+310,M22,master_mix,,G11,Plate 2
 311,M23,0,,G12,Plate 1
 312,M24,water,,G12,Plate 2
 313,N1,m349,,G1,Plate 3
@@ -332,7 +332,7 @@ Well Number 384,Well Address 384,Sample Name,sample_concentration,Well location 
 331,N19,m358,,G10,Plate 3
 332,N20,0,,G10,Plate 4
 333,N21,m359,,G11,Plate 3
-334,N22,0,,G11,Plate 4
+334,N22,master_mix,,G11,Plate 4
 335,N23,m360,,G12,Plate 3
 336,N24,water,,G12,Plate 4
 337,O1,0,,H1,Plate 1

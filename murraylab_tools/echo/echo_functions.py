@@ -16,7 +16,7 @@ __all__ = ["dna2nM_convert", "echo_round", "AbstractMixture", "WellReaction",
            "usable_volume"]
 
 dead_volume = 15000 + 6000 # Dead volume per well in an Echo source plate, in nL
-max_volume  = 65000 # Maximum Echoable volume in an Echo source plate, in nL
+max_volume  = 31000 # Maximum Echoable volume in an Echo source plate, in nL
 usable_volume = max_volume - dead_volume # Maximum pipettable volume per well
                                          # in an Echo source plate, in nL
 
@@ -291,6 +291,7 @@ class EchoRun():
         self.reactions       = dict()
         self.picklist        = []
         self.fill_material   = None
+        print(usable_volume)
 
     def define_plate(self, SPname, SPtype, DPtype):
         '''

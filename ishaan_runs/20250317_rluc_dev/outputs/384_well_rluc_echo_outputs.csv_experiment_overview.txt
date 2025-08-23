@@ -1,0 +1,560 @@
+Materials used:
+
+m235:
+	stock concentration: 29.17 nM
+	total volume: 0.25 uL
+m247:
+	stock concentration: 30.07 nM
+	total volume: 0.75 uL
+m236:
+	stock concentration: 35.22 nM
+	total volume: 0.25 uL
+m248:
+	stock concentration: 36.34 nM
+	total volume: 0.25 uL
+m237:
+	stock concentration: 28.12 nM
+	total volume: 0.25 uL
+m249:
+	stock concentration: 32.58 nM
+	total volume: 1.00 uL
+m238:
+	stock concentration: 33.41 nM
+	total volume: 0.25 uL
+m250:
+	stock concentration: 30.00 nM
+	total volume: 0.50 uL
+m239:
+	stock concentration: 28.19 nM
+	total volume: 0.25 uL
+m251:
+	stock concentration: 23.39 nM
+	total volume: 0.25 uL
+m240:
+	stock concentration: 31.47 nM
+	total volume: 1.00 uL
+m241:
+	stock concentration: 30.56 nM
+	total volume: 0.25 uL
+m253:
+	stock concentration: 29.45 nM
+	total volume: 1.00 uL
+m242:
+	stock concentration: 29.59 nM
+	total volume: 0.50 uL
+m243:
+	stock concentration: 30.07 nM
+	total volume: 0.25 uL
+m244:
+	stock concentration: 27.15 nM
+	total volume: 0.75 uL
+m245:
+	stock concentration: 25.13 nM
+	total volume: 4.75 uL
+m246:
+	stock concentration: 23.81 nM
+	total volume: 0.25 uL
+m254:
+	stock concentration: 11.21 nM
+	total volume: 0.25 uL
+m266:
+	stock concentration: 30.63 nM
+	total volume: 0.50 uL
+m255:
+	stock concentration: 29.40 nM
+	total volume: 0.25 uL
+m267:
+	stock concentration: 32.96 nM
+	total volume: 0.50 uL
+m256:
+	stock concentration: 29.95 nM
+	total volume: 0.25 uL
+m268:
+	stock concentration: 29.06 nM
+	total volume: 0.50 uL
+m257:
+	stock concentration: 28.17 nM
+	total volume: 0.25 uL
+m269:
+	stock concentration: 31.52 nM
+	total volume: 0.25 uL
+m270:
+	stock concentration: 32.07 nM
+	total volume: 0.50 uL
+m271:
+	stock concentration: 31.32 nM
+	total volume: 0.25 uL
+m260:
+	stock concentration: 29.95 nM
+	total volume: 0.25 uL
+m272:
+	stock concentration: 19.08 nM
+	total volume: 3.00 uL
+m261:
+	stock concentration: 25.23 nM
+	total volume: 0.25 uL
+m262:
+	stock concentration: 22.50 nM
+	total volume: 0.25 uL
+m263:
+	stock concentration: 24.55 nM
+	total volume: 4.00 uL
+m264:
+	stock concentration: 24.41 nM
+	total volume: 1.50 uL
+m265:
+	stock concentration: 31.93 nM
+	total volume: 0.25 uL
+m273:
+	stock concentration: 31.11 nM
+	total volume: 0.75 uL
+m285:
+	stock concentration: 22.11 nM
+	total volume: 2.50 uL
+m274:
+	stock concentration: 27.67 nM
+	total volume: 0.25 uL
+m286:
+	stock concentration: 29.46 nM
+	total volume: 0.25 uL
+m275:
+	stock concentration: 30.78 nM
+	total volume: 0.25 uL
+m287:
+	stock concentration: 31.58 nM
+	total volume: 0.25 uL
+m276:
+	stock concentration: 34.09 nM
+	total volume: 0.25 uL
+m288:
+	stock concentration: 29.79 nM
+	total volume: 0.75 uL
+m277:
+	stock concentration: 27.34 nM
+	total volume: 0.50 uL
+m289:
+	stock concentration: 31.11 nM
+	total volume: 0.25 uL
+m278:
+	stock concentration: 33.76 nM
+	total volume: 0.25 uL
+m290:
+	stock concentration: 21.51 nM
+	total volume: 0.25 uL
+m279:
+	stock concentration: 28.93 nM
+	total volume: 0.25 uL
+m291:
+	stock concentration: 27.21 nM
+	total volume: 0.75 uL
+m280:
+	stock concentration: 25.22 nM
+	total volume: 0.25 uL
+m281:
+	stock concentration: 30.05 nM
+	total volume: 1.00 uL
+m282:
+	stock concentration: 24.89 nM
+	total volume: 0.75 uL
+m283:
+	stock concentration: 27.14 nM
+	total volume: 4.00 uL
+m284:
+	stock concentration: 15.49 nM
+	total volume: 0.25 uL
+m292:
+	stock concentration: 24.44 nM
+	total volume: 0.50 uL
+m304:
+	stock concentration: 25.77 nM
+	total volume: 0.50 uL
+m293:
+	stock concentration: 29.91 nM
+	total volume: 0.50 uL
+m294:
+	stock concentration: 25.21 nM
+	total volume: 0.25 uL
+m306:
+	stock concentration: 23.59 nM
+	total volume: 0.75 uL
+m295:
+	stock concentration: 31.53 nM
+	total volume: 0.25 uL
+m307:
+	stock concentration: 33.77 nM
+	total volume: 0.25 uL
+m308:
+	stock concentration: 31.18 nM
+	total volume: 0.25 uL
+m297:
+	stock concentration: 27.95 nM
+	total volume: 0.50 uL
+m309:
+	stock concentration: 32.16 nM
+	total volume: 0.50 uL
+m310:
+	stock concentration: 31.46 nM
+	total volume: 0.75 uL
+m299:
+	stock concentration: 23.87 nM
+	total volume: 0.25 uL
+m300:
+	stock concentration: 27.17 nM
+	total volume: 0.25 uL
+m301:
+	stock concentration: 24.58 nM
+	total volume: 1.00 uL
+m302:
+	stock concentration: 16.50 nM
+	total volume: 6.00 uL
+m303:
+	stock concentration: 24.22 nM
+	total volume: 0.25 uL
+m311:
+	stock concentration: 29.05 nM
+	total volume: 0.75 uL
+m323:
+	stock concentration: 39.66 nM
+	total volume: 0.50 uL
+m313:
+	stock concentration: 23.88 nM
+	total volume: 0.25 uL
+m314:
+	stock concentration: 28.33 nM
+	total volume: 0.25 uL
+m315:
+	stock concentration: 25.61 nM
+	total volume: 0.25 uL
+m327:
+	stock concentration: 32.06 nM
+	total volume: 0.75 uL
+m316:
+	stock concentration: 28.33 nM
+	total volume: 0.25 uL
+m328:
+	stock concentration: 32.42 nM
+	total volume: 0.25 uL
+m329:
+	stock concentration: 19.58 nM
+	total volume: 1.50 uL
+m318:
+	stock concentration: 26.18 nM
+	total volume: 0.25 uL
+m319:
+	stock concentration: 22.23 nM
+	total volume: 0.25 uL
+m320:
+	stock concentration: 19.08 nM
+	total volume: 1.75 uL
+m321:
+	stock concentration: 20.51 nM
+	total volume: 4.75 uL
+m322:
+	stock concentration: 22.59 nM
+	total volume: 0.75 uL
+master_mix:
+	stock concentration: 0.40 nM
+	total volume: 135.00 uL
+m330:
+	stock concentration: 26.25 nM
+	total volume: 0.25 uL
+m342:
+	stock concentration: 30.35 nM
+	total volume: 1.00 uL
+m331:
+	stock concentration: 27.46 nM
+	total volume: 0.50 uL
+m344:
+	stock concentration: 21.13 nM
+	total volume: 0.50 uL
+m333:
+	stock concentration: 28.94 nM
+	total volume: 0.25 uL
+m345:
+	stock concentration: 33.52 nM
+	total volume: 0.25 uL
+m346:
+	stock concentration: 17.77 nM
+	total volume: 0.25 uL
+m335:
+	stock concentration: 22.14 nM
+	total volume: 0.25 uL
+m336:
+	stock concentration: 27.73 nM
+	total volume: 0.25 uL
+m348:
+	stock concentration: 32.84 nM
+	total volume: 1.00 uL
+m337:
+	stock concentration: 18.78 nM
+	total volume: 0.25 uL
+m338:
+	stock concentration: 24.23 nM
+	total volume: 0.25 uL
+m339:
+	stock concentration: 23.15 nM
+	total volume: 4.00 uL
+m340:
+	stock concentration: 26.99 nM
+	total volume: 3.50 uL
+m341:
+	stock concentration: 22.75 nM
+	total volume: 0.25 uL
+m361:
+	stock concentration: 29.13 nM
+	total volume: 0.50 uL
+m350:
+	stock concentration: 26.33 nM
+	total volume: 0.25 uL
+m351:
+	stock concentration: 28.50 nM
+	total volume: 0.25 uL
+m363:
+	stock concentration: 31.30 nM
+	total volume: 0.25 uL
+m352:
+	stock concentration: 27.66 nM
+	total volume: 0.25 uL
+m364:
+	stock concentration: 26.54 nM
+	total volume: 0.25 uL
+m353:
+	stock concentration: 33.75 nM
+	total volume: 0.25 uL
+m365:
+	stock concentration: 33.19 nM
+	total volume: 0.25 uL
+m354:
+	stock concentration: 30.60 nM
+	total volume: 0.25 uL
+m366:
+	stock concentration: 33.33 nM
+	total volume: 0.25 uL
+m367:
+	stock concentration: 24.58 nM
+	total volume: 1.00 uL
+m357:
+	stock concentration: 31.86 nM
+	total volume: 0.25 uL
+m358:
+	stock concentration: 25.28 nM
+	total volume: 0.75 uL
+m359:
+	stock concentration: 34.17 nM
+	total volume: 7.75 uL
+m360:
+	stock concentration: 27.59 nM
+	total volume: 0.25 uL
+m368:
+	stock concentration: 20.02 nM
+	total volume: 0.25 uL
+m380:
+	stock concentration: 31.61 nM
+	total volume: 0.50 uL
+m369:
+	stock concentration: 30.84 nM
+	total volume: 0.25 uL
+m370:
+	stock concentration: 29.65 nM
+	total volume: 0.25 uL
+m382:
+	stock concentration: 31.12 nM
+	total volume: 0.25 uL
+m371:
+	stock concentration: 28.47 nM
+	total volume: 0.25 uL
+m383:
+	stock concentration: 32.09 nM
+	total volume: 0.25 uL
+m384:
+	stock concentration: 33.77 nM
+	total volume: 0.25 uL
+m373:
+	stock concentration: 34.89 nM
+	total volume: 0.25 uL
+m386:
+	stock concentration: 34.05 nM
+	total volume: 3.25 uL
+m375:
+	stock concentration: 25.26 nM
+	total volume: 0.25 uL
+m377:
+	stock concentration: 24.56 nM
+	total volume: 5.50 uL
+m378:
+	stock concentration: 28.61 nM
+	total volume: 0.75 uL
+m379:
+	stock concentration: 24.91 nM
+	total volume: 0.25 uL
+m214:
+	stock concentration: 72.33 nM
+	total volume: 22.57 uL
+m212:
+	stock concentration: 38.75 nM
+	total volume: 24.75 uL
+m215:
+	stock concentration: 70.91 nM
+	total volume: 22.40 uL
+m216:
+	stock concentration: 66.86 nM
+	total volume: 21.88 uL
+m218:
+	stock concentration: 71.48 nM
+	total volume: 22.57 uL
+m219:
+	stock concentration: 71.15 nM
+	total volume: 22.75 uL
+m220:
+	stock concentration: 67.90 nM
+	total volume: 22.57 uL
+m221:
+	stock concentration: 72.48 nM
+	total volume: 22.57 uL
+m222:
+	stock concentration: 71.45 nM
+	total volume: 22.75 uL
+water:
+	stock concentration: 0.40 x
+	total volume: 97.42 uL
+
+On the source plate:
+	Add 65.0 uL of m235 in well: B1
+	Add 65.0 uL of m247 in well: B2
+	Add 65.0 uL of m236 in well: B3
+	Add 65.0 uL of m248 in well: B4
+	Add 65.0 uL of m237 in well: B5
+	Add 65.0 uL of m249 in well: B6
+	Add 65.0 uL of m238 in well: B7
+	Add 65.0 uL of m250 in well: B8
+	Add 65.0 uL of m239 in well: B9
+	Add 65.0 uL of m251 in well: B10
+	Add 65.0 uL of m240 in well: B11
+	Add 65.0 uL of m241 in well: B13
+	Add 65.0 uL of m253 in well: B14
+	Add 65.0 uL of m242 in well: B15
+	Add 65.0 uL of m243 in well: B17
+	Add 65.0 uL of m244 in well: B19
+	Add 65.0 uL of m245 in well: B21
+	Add 65.0 uL of m246 in well: B23
+	Add 65.0 uL of m254 in well: D1
+	Add 65.0 uL of m266 in well: D2
+	Add 65.0 uL of m255 in well: D3
+	Add 65.0 uL of m267 in well: D4
+	Add 65.0 uL of m256 in well: D5
+	Add 65.0 uL of m268 in well: D6
+	Add 65.0 uL of m257 in well: D7
+	Add 65.0 uL of m269 in well: D8
+	Add 65.0 uL of m270 in well: D10
+	Add 65.0 uL of m271 in well: D12
+	Add 65.0 uL of m260 in well: D13
+	Add 65.0 uL of m272 in well: D14
+	Add 65.0 uL of m261 in well: D15
+	Add 65.0 uL of m262 in well: D17
+	Add 65.0 uL of m263 in well: D19
+	Add 65.0 uL of m264 in well: D21
+	Add 65.0 uL of m265 in well: D23
+	Add 65.0 uL of m273 in well: F1
+	Add 65.0 uL of m285 in well: F2
+	Add 65.0 uL of m274 in well: F3
+	Add 65.0 uL of m286 in well: F4
+	Add 65.0 uL of m275 in well: F5
+	Add 65.0 uL of m287 in well: F6
+	Add 65.0 uL of m276 in well: F7
+	Add 65.0 uL of m288 in well: F8
+	Add 65.0 uL of m277 in well: F9
+	Add 65.0 uL of m289 in well: F10
+	Add 65.0 uL of m278 in well: F11
+	Add 65.0 uL of m290 in well: F12
+	Add 65.0 uL of m279 in well: F13
+	Add 65.0 uL of m291 in well: F14
+	Add 65.0 uL of m280 in well: F15
+	Add 65.0 uL of m281 in well: F17
+	Add 65.0 uL of m282 in well: F19
+	Add 65.0 uL of m283 in well: F21
+	Add 65.0 uL of m284 in well: F23
+	Add 65.0 uL of m292 in well: H1
+	Add 65.0 uL of m304 in well: H2
+	Add 65.0 uL of m293 in well: H3
+	Add 65.0 uL of m294 in well: H5
+	Add 65.0 uL of m306 in well: H6
+	Add 65.0 uL of m295 in well: H7
+	Add 65.0 uL of m307 in well: H8
+	Add 65.0 uL of m308 in well: H10
+	Add 65.0 uL of m297 in well: H11
+	Add 65.0 uL of m309 in well: H12
+	Add 65.0 uL of m310 in well: H14
+	Add 65.0 uL of m299 in well: H15
+	Add 65.0 uL of m300 in well: H17
+	Add 65.0 uL of m301 in well: H19
+	Add 65.0 uL of m302 in well: H21
+	Add 65.0 uL of m303 in well: H23
+	Add 65.0 uL of m311 in well: J1
+	Add 65.0 uL of m323 in well: J2
+	Add 65.0 uL of m313 in well: J5
+	Add 65.0 uL of m314 in well: J7
+	Add 65.0 uL of m315 in well: J9
+	Add 65.0 uL of m327 in well: J10
+	Add 65.0 uL of m316 in well: J11
+	Add 65.0 uL of m328 in well: J12
+	Add 65.0 uL of m329 in well: J14
+	Add 65.0 uL of m318 in well: J15
+	Add 65.0 uL of m319 in well: J17
+	Add 65.0 uL of m320 in well: J19
+	Add 65.0 uL of m321 in well: J21
+	Add 65.0 uL of m322 in well: J23
+	Add 65.0 uL of master_mix in wells: K22, L22, M22, N22
+	Add 65.0 uL of m330 in well: L1
+	Add 65.0 uL of m342 in well: L2
+	Add 65.0 uL of m331 in well: L3
+	Add 65.0 uL of m344 in well: L6
+	Add 65.0 uL of m333 in well: L7
+	Add 65.0 uL of m345 in well: L8
+	Add 65.0 uL of m346 in well: L10
+	Add 65.0 uL of m335 in well: L11
+	Add 65.0 uL of m336 in well: L13
+	Add 65.0 uL of m348 in well: L14
+	Add 65.0 uL of m337 in well: L15
+	Add 65.0 uL of m338 in well: L17
+	Add 65.0 uL of m339 in well: L19
+	Add 65.0 uL of m340 in well: L21
+	Add 65.0 uL of m341 in well: L23
+	Add 65.0 uL of m361 in well: N2
+	Add 65.0 uL of m350 in well: N3
+	Add 65.0 uL of m351 in well: N5
+	Add 65.0 uL of m363 in well: N6
+	Add 65.0 uL of m352 in well: N7
+	Add 65.0 uL of m364 in well: N8
+	Add 65.0 uL of m353 in well: N9
+	Add 65.0 uL of m365 in well: N10
+	Add 65.0 uL of m354 in well: N11
+	Add 65.0 uL of m366 in well: N12
+	Add 65.0 uL of m367 in well: N14
+	Add 65.0 uL of m357 in well: N17
+	Add 65.0 uL of m358 in well: N19
+	Add 65.0 uL of m359 in well: N21
+	Add 65.0 uL of m360 in well: N23
+	Add 65.0 uL of m368 in well: P1
+	Add 65.0 uL of m380 in well: P2
+	Add 65.0 uL of m369 in well: P3
+	Add 65.0 uL of m370 in well: P5
+	Add 65.0 uL of m382 in well: P6
+	Add 65.0 uL of m371 in well: P7
+	Add 65.0 uL of m383 in well: P8
+	Add 65.0 uL of m384 in well: P10
+	Add 65.0 uL of m373 in well: P11
+	Add 65.0 uL of m386 in well: P14
+	Add 65.0 uL of m375 in well: P15
+	Add 65.0 uL of m377 in well: P19
+	Add 65.0 uL of m378 in well: P21
+	Add 65.0 uL of m379 in well: P23
+	Add 65.0 uL of m214 in well: A16
+	Add 65.0 uL of m212 in well: A20
+	Add 65.0 uL of m215 in well: C16
+	Add 65.0 uL of m216 in well: E16
+	Add 65.0 uL of m218 in well: G16
+	Add 65.0 uL of m219 in well: I16
+	Add 65.0 uL of m220 in well: K16
+	Add 65.0 uL of m221 in well: M16
+	Add 65.0 uL of m222 in well: O16
+	Add 65.0 uL of water in wells: A24, B24, C24
