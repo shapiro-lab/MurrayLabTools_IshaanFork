@@ -1289,7 +1289,7 @@ class WellReaction(AbstractMixture):
                               pipette_by_hand=self.fill_material_hand_pipetted)
 
         current_vol = self.current_vol()
-        if current_vol > self.vol:
+        if round(current_vol, 3) > self.vol:
             error_string = "Reaction "
             if self.well:
                 error_string += "in well %s " % self.well
@@ -1798,8 +1798,8 @@ class SourcePlate():
             if n_wells > self.cols or self.current_col + n_wells <= self.cols:
                 flat_idx = self.current_row*self.cols + self.current_col
                 if flat_idx + n_wells > self.rows * self.cols:
-                    raise Exception("Source plate %s is out of available " + \
-                                    "wells." % self.name)
+                    raise Exception("Source plate %s is out of available wells." % self.name)
+
                 block = wells_used_array.ravel()[flat_idx:flat_idx + n_wells]
                 # If it will, return that block and mark it used
                 if True not in block:
@@ -1879,10 +1879,14 @@ class SourcePlate():
 
         #Available material:
         tot_available_vol = self.get_available_material(material)
-        #new material needed:
-        volume_additional = echo_volume-tot_available_vol
-        #Number of new source wells needed
-        n_source_wells = math.ceil(float(volume_additional) /  usable_volume)
+        # new material needed (clamp to 0 if already enough stock available)
+        volume_additional = max(0, echo_volume - tot_available_vol)
+
+        # number of new source wells needed
+        if usable_volume <= 0:
+            n_source_wells = 0
+        else:
+            n_source_wells = math.ceil(volume_additional / usable_volume)
 
         #Fill Wells here
         wells_to_fill_list = self.request_wells(int(n_source_wells))
